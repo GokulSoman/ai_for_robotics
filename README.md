@@ -6,7 +6,7 @@ Source: [Youtube Playlist](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkCS
 
 Content Ordered by Video number in Playlist
 
-1. Histogram Filter [] - []
+1. Histogram Filter - 1 - 75
 2. Linear Kalman Filter
 3. Multivariate Kalman Filter - [] - 124
 4. Multivariate Kalman Filter 2D - 126 - 142

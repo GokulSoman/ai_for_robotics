@@ -1,0 +1,10 @@
+name: ai_env
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - jupyterlab
+  - ipympl
+  - nbdime
+prefix: /home/gokul/anaconda3/envs/ai_env

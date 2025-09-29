@@ -11,3 +11,12 @@ Content Ordered by Video number in Playlist
 3. Multivariate Kalman Filter - [] - 124
 4. Multivariate Kalman Filter 2D - 126 - 142
 5. Paricle Filters - 143 - []
+
+
+#  Installations
+
+To use nbdime for `git diff` of jupyter notebooks
+
+```
+nbdime config-git --enable --global
+```
